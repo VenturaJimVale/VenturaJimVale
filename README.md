@@ -6,7 +6,7 @@
 
 <div align="left">
     <h3>Sobre mi:</h3>
-        <p>• 📚 I’m currently learning: <b>Me gusta aprender cosas nuevas</b></p>
+        <p>• 📚 <b>Me gusta aprender cosas nuevas</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Musica🎧 | Dibujar | Leer </b></p>
         <p>• 💬 Me faltan menos de 100 dias para tener una racha de duolingo de 300 dias</p>
         <p>• 📫 Contactame: <b>f91567706@gmail.com</b></p>
